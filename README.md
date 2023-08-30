@@ -1,7 +1,7 @@
 # WEB_TJE
 더조은아카데미 웹 HTML CSS JS 실습
 
-https://www.youtube.com/playlist?list=PL4C2AmBC9jOZagk3XNV5pIiuK2J4b_VY9
+## 강의 다시보기 https://www.youtube.com/playlist?list=PL4C2AmBC9jOZagk3XNV5pIiuK2J4b_VY9
 
 
 ## Day01
