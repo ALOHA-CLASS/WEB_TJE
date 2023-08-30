@@ -17,4 +17,4 @@
 
 ### 1:1 레슨 [숨고 프로그래밍 레슨](https://soomgo.com/profile/users/717340)
 
-### 현장강의 [ALOHACLASS](http://bu.tjoeun.co.kr/) 032.521.8889
+### 현장강의 [더조은아카데미](http://bu.tjoeun.co.kr/) 032.521.8889
