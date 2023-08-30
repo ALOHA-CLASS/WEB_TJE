@@ -2,7 +2,7 @@
 더조은아카데미 웹 HTML CSS JS 실습
 
 ### 강의 다시보기
-https://www.youtube.com/playlist?list=PL4C2AmBC9jOZagk3XNV5pIiuK2J4b_VY9
+<a href="https://www.youtube.com/playlist?list=PL4C2AmBC9jOZagk3XNV5pIiuK2J4b_VY9" target="_blank">유튜브 동영상 (강의 다시보기)</a>
 
 
 ## Day01
