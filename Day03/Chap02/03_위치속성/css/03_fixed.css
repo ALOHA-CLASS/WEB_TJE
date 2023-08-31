@@ -1,0 +1,70 @@
+
+h1 { text-align: center; }
+
+.container {
+    position: relative;
+    width: 1200px;
+    height: 800px;
+    border: 5px dashed orange;
+    margin: auto;
+}
+
+.container div {
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 48px;
+    border-radius: 10%;
+}
+
+/* position : fixed; */
+.container .fixed {
+    /* 👩‍💻TODO: 여기에 작성해보세요:) */             
+    /* 브라우저를 기준으로 위치 설정 */
+    position: fixed;
+    border: 3px solid black;
+}
+
+/* 초기위치 */
+.container .base {
+    position: absolute;
+    border: 3px dashed #ddd;
+    color: #ddd;
+    z-index: -1;
+}
+
+.first { top: 0; left: 0; }
+.second { top: 0; right: 0; }
+.third { bottom: 0; left: 0; }
+.fourth { bottom: 0; right: 0; }
+
+.fifth { top: 0; left: 500px; }
+.sixth { top: 200px; left: 500px; }
+.seventh { top: 400px; left: 500px; }
+.eighth { top: 600px; left: 500px; }
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* top, left 의 % 는 부모요소에 대한 비율 */
+    /* translate() 의 % 는 해당요소에 대한 비율 */
+    /* translate( x축, y축 ) */
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 40px;
+    line-height: 80px;
+    text-align: center;
+}
