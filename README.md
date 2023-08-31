@@ -43,9 +43,6 @@
 | Chap03 | 배경속성 |
 | Chap04 | 변형속성, 변환속성 |
 | Chap05 | 애니메이션 속성 |
-| Chap06 | 로그인 페이지 |
-| Chap07 | Flex 레이아웃 |
-| Chap08 | Grid 레이아웃 |
 
 
 ## Day04
@@ -53,11 +50,14 @@
 
 | Chapter | Info |
 | ------ | ------ |
-| Chap01 | CSS UI -  |
-| Chap02 | CSS UI -  |
-| Chap03 | CSS UI -  |
+| Chap01 | 로그인 페이지 |
+| Chap02 | Flex 레이아웃 |
+| Chap03 | Grid 레이아웃 |
 | Chap04 | CSS UI -  |
-| Chap05 | 메인,서브,로그인 |
+| Chap05 | CSS UI -  |
+| Chap06 | CSS UI -  |
+| Chap07 | CSS UI -  |
+| Chap08 | 메인,서브,로그인 |
 
 
 ## Day05
