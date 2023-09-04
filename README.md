@@ -53,8 +53,6 @@
 | Chap01 | 로그인 페이지 |
 | Chap02 | Flex 레이아웃 |
 | Chap03 | Grid 레이아웃 |
-| Chap04 | CSS UI -  |
-| Chap05 | CSS UI -  |
 
 
 ## Day05
