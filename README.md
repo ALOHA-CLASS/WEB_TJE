@@ -55,19 +55,19 @@
 | Chap03 | Grid 레이아웃 |
 | Chap04 | CSS UI -  |
 | Chap05 | CSS UI -  |
-| Chap06 | CSS UI -  |
-| Chap07 | CSS UI -  |
-| Chap08 | 메인,서브,로그인 |
 
 
 ## Day05
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 
 | Chapter | Info |
 | ------ | ------ |
-| Chap01 | - |
-| Chap02 | - |
-| Chap03 | - |
+| Chap01 | CSS UI -  |
+| Chap02 | CSS UI -  |
+| Chap03 | 메인 페이지 |
+| Chap04 | 서브 페이지 |
+| Chap05 | - |
+| Chap06 | - |
 
 
 ## Day06
