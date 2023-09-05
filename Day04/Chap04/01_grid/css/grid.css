@@ -47,13 +47,14 @@
 
 /* grid-area : 영역의 이름을 지정하는 속성 */
 .grid-header { grid-area: header; }
+.grid-aside { grid-area: aside; }
 .grid-main { grid-area: main; }
 .grid-footer { grid-area: footer; }
 
 .grid-template-areas {
     grid-template-areas: 
         "header header header"
-        "main main main"
+        "aside main main"
         "footer footer footer";
 }
 

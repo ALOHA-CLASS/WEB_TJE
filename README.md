@@ -60,8 +60,9 @@
 
 | Chapter | Info |
 | ------ | ------ |
-| Chap01 | CSS UI -  |
-| Chap02 | CSS UI -  |
+| Chap01 | CSS UI - 버튼 |
+| Chap02 | CSS UI - 메뉴 |
+| Chap02 | CSS UI - 탭 |
 | Chap03 | 메인 페이지 |
 | Chap04 | 서브 페이지 |
 | Chap05 | - |
