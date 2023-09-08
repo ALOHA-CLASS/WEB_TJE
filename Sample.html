@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        getBoard()
+
+        // 게시글 조회 요청
+        function getBoard() {
+            // XMLHttpRequest 객체 생성
+            let request = new XMLHttpRequest()
+
+            // 응답 확인
+            request.onreadystatechange = function() {
+                let response = ''
+                if( request.readyState == request.DONE && request.status == 200 ) {
+                    response = request.responseText
+
+                    if( response == '' ) {
+                        alert('데이터가 없습니다.')
+                    }
+
+                    console.log(response);
+                }
+            }
+
+            
+            let url = "http://192.168.30.119:8080/api/data"
+
+            request.open("GET", url, true)
+
+            request.setRequestHeader("Content-Type", "application/json")
+
+            request.send()
+        }
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
