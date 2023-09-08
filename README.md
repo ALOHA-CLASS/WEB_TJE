@@ -62,21 +62,34 @@
 | ------ | ------ |
 | Chap01 | CSS UI - 버튼 |
 | Chap02 | CSS UI - 메뉴 |
-| Chap02 | CSS UI - 탭 |
-| Chap03 | 메인 페이지 |
-| Chap04 | 서브 페이지 |
-| Chap05 | - |
-| Chap06 | - |
+| Chap03 | CSS UI - 탭 |
 
 
 ## Day06
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 
+| Chapter | Info |
+| ------ | ------ |
+| Chap01 | JavaSript 기본문법, 조건문, 반복문 |
+| Chap02 | 함수, 함수고급 |
+
 ## Day07
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 
+| Chapter | Info |
+| ------ | ------ |
+| Chap01 | 객체 |
+| Chap02 | 문서 객체모델 (DOM) |
+| Chap03 | DOM 요소 |
+| Chap04 | 브라우더 객체모델 (BOM) |
+
 ## Day08
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+
+| Chapter | Info |
+| ------ | ------ |
+| Chap01 | jQuery 준비, css, event, animate |
+| Chap02 | jQuery 이미지 슬라이드 라이브러리 |
 
 ## Day09
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
