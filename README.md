@@ -1,4 +1,4 @@
-# WEB_TJE
+# 웹 프론트엔드 기초
 더조은아카데미 웹 HTML CSS JS 실습
 <br>
 - <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
